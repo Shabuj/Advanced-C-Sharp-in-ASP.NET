@@ -1,0 +1,6 @@
+C:\Users\Md Shabuj Hossain\source\repos\AnnonymousType\bin\Debug\AnnonymousType.exe.config
+C:\Users\Md Shabuj Hossain\source\repos\AnnonymousType\bin\Debug\AnnonymousType.exe
+C:\Users\Md Shabuj Hossain\source\repos\AnnonymousType\bin\Debug\AnnonymousType.pdb
+C:\Users\Md Shabuj Hossain\source\repos\AnnonymousType\obj\Debug\AnnonymousType.csprojAssemblyReference.cache
+C:\Users\Md Shabuj Hossain\source\repos\AnnonymousType\obj\Debug\AnnonymousType.exe
+C:\Users\Md Shabuj Hossain\source\repos\AnnonymousType\obj\Debug\AnnonymousType.pdb
